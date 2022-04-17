@@ -1,6 +1,6 @@
 const os = require('os')
 
-//info about current user
+//info about current user wow
 const user = os.userInfo()
 console.log(user)
 
